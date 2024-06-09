@@ -26,4 +26,4 @@ For now authentication is disabled. Vulnerabilities present:
 * deploy via terraform to save time
 * ci/cd
 * AWS adaptation
-* better readme# disposeel
+* better readme
